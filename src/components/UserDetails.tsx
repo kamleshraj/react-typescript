@@ -62,6 +62,7 @@ const UserDetails:React.FC=()=>{
             </table>
             <Link to='/'>Back To Home</Link>
             <p>this is for git</p>
+            <div>I am testing the new branch of react-typescript-git</div>
         </>
     )
 }
